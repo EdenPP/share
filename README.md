@@ -1,0 +1,2 @@
+# share
+go share package
